@@ -1,0 +1,72 @@
+.outer
+{
+min-height:1500px;
+
+}
+.top
+{
+	min-height:50px;
+	background:gray;
+	
+}
+.logo
+{
+	height:50px;
+	width:250px;
+	margin:5px 5px;
+	background:white;
+	font-size:30px;
+	font-family:Algerian;
+	border:5px double green;
+}
+.menu
+{
+	height:50px;
+}
+#menu
+{
+	background:none;
+	border:none;
+	box-shadow:none;
+	padding:1% 0%;
+	margin:0px;
+}
+#menu ul li a
+{
+	color:white;
+	text-shadow:none;
+	font-weight:bold;
+	font-size:17px;
+}
+#menu ul li:hover
+{
+	background:transparent; 
+}
+.banner
+{
+	min-height:600px;
+	background:url('bimg/d1.jpg');	
+	background-size:100% 100%;
+	background-attachment:fixed;
+}
+.banner1
+{
+	min-height:600px;
+	background-color:rgba(0,0,0,.4);
+}
+.bantxt
+{
+	min-height:600px;
+	font-size:45px;
+	color:white;
+	margin-left:600px;
+	font-family:Blackadder ITC;
+}
+.ban1txt
+{
+	font-size:30px;
+	font-family:Algerian;
+	color:white;
+	margin-left:460px;
+}
+
